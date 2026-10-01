@@ -3,13 +3,25 @@
     <channel>
         <title>FolderCloner</title>
         <item>
+            <title>1.5</title>
+            <pubDate>Wed, 30 Sep 2026 20:53:54 -0700</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/lwlwei/foldercloner/releases/download/v1.5/FolderCloner-1.5.dmg" length="1686914" type="application/octet-stream" sparkle:edSignature="agAqW5n5E55YS9/NypeRKzU4NBJoN+sCuNXJbNRZwL7bNFGXhzf3JJEO6cuQVDVfSt/xBLqa0mZ4XWdTiTTLDg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/lwlwei/foldercloner/releases/download/v1.5/FolderCloner6-5.delta" sparkle:deltaFrom="5" length="10694" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vvNZsgzVU520cqUYFBdvBoYCssE4ILGxgsQEacOwt/lXsQsZe6e/kK0wKdxQMQEfm2c9QWODxw+VJyjbWUvZCg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.4</title>
             <pubDate>Wed, 30 Sep 2026 19:54:18 -0700</pubDate>
             <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/lwlwei/foldercloner/releases/download/v1.4/FolderCloner-1.4.dmg" length="1686868" type="application/octet-stream" sparkle:edSignature="iC+u4zO6+3bTxh3DhcRvKh75O6j5qe6z5UkNYo/RQYSN9NMeRMBXfIPg1E4DdbKuTfF8hPy2VpwDDApDo7lKDg=="/>
+            <enclosure url="https://github.com/lwlwei/foldercloner/releases/download/v1.5/FolderCloner-1.4.dmg" length="1686868" type="application/octet-stream" sparkle:edSignature="iC+u4zO6+3bTxh3DhcRvKh75O6j5qe6z5UkNYo/RQYSN9NMeRMBXfIPg1E4DdbKuTfF8hPy2VpwDDApDo7lKDg=="/>
         </item>
     </channel>
 </rss>
