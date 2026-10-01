@@ -3,13 +3,27 @@
     <channel>
         <title>FolderCloner</title>
         <item>
+            <title>1.7</title>
+            <pubDate>Thu, 01 Oct 2026 13:22:16 -0700</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/lwlwei/foldercloner/releases/download/v1.7/FolderCloner-1.7.dmg" length="1752154" type="application/octet-stream" sparkle:edSignature="Mw4MDT3g9NtxyiNxrlEIGxS3lE+kjIQpzmelYl4yFXa+dllAKZKa9VcFlzbqKa/AV5O2LFKkA0BJtNLLPecJCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/lwlwei/foldercloner/releases/download/v1.7/FolderCloner8-7.delta" sparkle:deltaFrom="7" length="111582" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="eOy9bylfNSRU1s6IrpO8r3d0kcvXd8K2BXLHkwZXETGun5iAMRurkvyUOcwPU8DvTT2utxzxdpjkITrE4COeBw=="/>
+                <enclosure url="https://github.com/lwlwei/foldercloner/releases/download/v1.7/FolderCloner8-6.delta" sparkle:deltaFrom="6" length="123446" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Z5/i0aZUuBXgjLX3IXwwTbp7Z7bToNkrP2F4VkZ1oMhLGS+y8x/GbyBrEciWaS31sT+yVMgtdkvaxSQzwDV3AA=="/>
+                <enclosure url="https://github.com/lwlwei/foldercloner/releases/download/v1.7/FolderCloner8-5.delta" sparkle:deltaFrom="5" length="123790" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TMfGRxPP18MY9tEedmpMVdFbR5NW/mO/LX9aJ5t7i4aOWE6AlF9CayO7SNQM1OcinDqea/6fBl1CO/To5y7fAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.6</title>
             <pubDate>Thu, 01 Oct 2026 00:27:27 -0700</pubDate>
             <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/lwlwei/foldercloner/releases/download/v1.6/FolderCloner-1.6.dmg" length="1694790" type="application/octet-stream" sparkle:edSignature="yGZMZOf0TEDRhpyS0kvM+Kfovir1E3WUKe+gULGlJEZeZ/hB/9NT7aeU3oO8BVkA5ZQqjc4XohUk09R8ars7CQ=="/>
+            <enclosure url="https://github.com/lwlwei/foldercloner/releases/download/v1.7/FolderCloner-1.6.dmg" length="1694790" type="application/octet-stream" sparkle:edSignature="yGZMZOf0TEDRhpyS0kvM+Kfovir1E3WUKe+gULGlJEZeZ/hB/9NT7aeU3oO8BVkA5ZQqjc4XohUk09R8ars7CQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/lwlwei/foldercloner/releases/download/v1.6/FolderCloner7-6.delta" sparkle:deltaFrom="6" length="61354" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sjBEm+1I/Sl2R67utHIBrcwH/PPqLUo1yg//FBfyRSMGGVIwsVDlqTy12XeLJZU340xhEprnxmMqggN3hufZAw=="/>
                 <enclosure url="https://github.com/lwlwei/foldercloner/releases/download/v1.6/FolderCloner7-5.delta" sparkle:deltaFrom="5" length="61746" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1CnD1JKXVg5ybp2OhgMrtPbqieH9Es09LJwlkOgTHsRpqs1uRaqZL6iYoIG2sm3NOIDDQsVte5Vmi/6dUFj1Dg=="/>
@@ -22,19 +36,10 @@
             <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/lwlwei/foldercloner/releases/download/v1.6/FolderCloner-1.5.dmg" length="1686914" type="application/octet-stream" sparkle:edSignature="agAqW5n5E55YS9/NypeRKzU4NBJoN+sCuNXJbNRZwL7bNFGXhzf3JJEO6cuQVDVfSt/xBLqa0mZ4XWdTiTTLDg=="/>
+            <enclosure url="https://github.com/lwlwei/foldercloner/releases/download/v1.7/FolderCloner-1.5.dmg" length="1686914" type="application/octet-stream" sparkle:edSignature="agAqW5n5E55YS9/NypeRKzU4NBJoN+sCuNXJbNRZwL7bNFGXhzf3JJEO6cuQVDVfSt/xBLqa0mZ4XWdTiTTLDg=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/lwlwei/foldercloner/releases/download/v1.5/FolderCloner6-5.delta" sparkle:deltaFrom="5" length="10694" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vvNZsgzVU520cqUYFBdvBoYCssE4ILGxgsQEacOwt/lXsQsZe6e/kK0wKdxQMQEfm2c9QWODxw+VJyjbWUvZCg=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.4</title>
-            <pubDate>Wed, 30 Sep 2026 19:54:18 -0700</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/lwlwei/foldercloner/releases/download/v1.6/FolderCloner-1.4.dmg" length="1686868" type="application/octet-stream" sparkle:edSignature="iC+u4zO6+3bTxh3DhcRvKh75O6j5qe6z5UkNYo/RQYSN9NMeRMBXfIPg1E4DdbKuTfF8hPy2VpwDDApDo7lKDg=="/>
         </item>
     </channel>
 </rss>
