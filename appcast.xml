@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://CHANGE-ME.github.io/foldercloner/FolderCloner-1.4.dmg" length="1686943" type="application/octet-stream" sparkle:edSignature="E9KznhkByNnWdpjs9qGvcXQ1VSa7Dzf+Gue7GdUJsJ94WT21+i+0ADu4CWjtQj/5x/3qdY1KIzefgGfqk5oUCw=="/>
+            <enclosure url="https://github.com/lwlwei/foldercloner/releases/download/v1.4/FolderCloner-1.4.dmg" length="1686943" type="application/octet-stream" sparkle:edSignature="E9KznhkByNnWdpjs9qGvcXQ1VSa7Dzf+Gue7GdUJsJ94WT21+i+0ADu4CWjtQj/5x/3qdY1KIzefgGfqk5oUCw=="/>
         </item>
     </channel>
 </rss>
